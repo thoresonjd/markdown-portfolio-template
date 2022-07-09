@@ -1,10 +1,10 @@
 <h1 align="center">Markdown Portfolio</h1>
 
-This repository serves as a template to easily construct and customize a personal portfolio using Markdown. Thought it is always fun and impressive to design and deploy a gorgeous personal website, one need not do so in order to show off their portfolio. Simplicity is often just as effective as complexity, if not more so.
+This repository serves as a template to easily construct and customize a personal portfolio using Markdown. Though it is always fun and impressive to design and deploy a gorgeous personal website, one need not do so in order to show off their portfolio. Simplicity is often just as effective as complexity, if not more so.
 
-Below is the template for the main page of your portfolio. Linked within the main page are various named pages that serve as their own respective templates. If you'd like, you can link your social information as well as a headshot.
+Below is the template for the main page of your portfolio. Linked within the main page are various named pages that serve as their own respective templates. These templates may provide examples on what to include. For example, you may include a headshot of yourself on the main page.
 
-Everyone is encouraged to fork, copy, or reference this repository and customize it to their own liking. You need not adhere to anything that I provide in this template. You may add, modify, or remove anything as you see fit. Get creative! Your portfolio is yours to own and customize.
+Everyone is encouraged to fork, copy, or reference this repository and customize it to their own liking. You need not adhere to anything provided in this template. You may add, modify, or remove anything as you see fit. Get creative! Your portfolio is yours to own and customize.
 
 If you are interested in seeing what a Markdown portfolio may look like, here's a reference to my portfolio: https://github.com/thoresonjd/markdown-portfolio
 
