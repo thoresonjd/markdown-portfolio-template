@@ -10,14 +10,6 @@
 
 ---
 
-**Project Title** | Start Date - End Date
-* High-level overview
-* Personal contributions to the project
-* Achievements and accomplishments
-* Tools and technologies used
-
----
-
 [Project Title w/ Link to Source](https://github.com) | Start Date - End Date
 * High-level overview
 * Personal contributions to the project

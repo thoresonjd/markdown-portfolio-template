@@ -2,6 +2,7 @@
 
 # Honors & Extracurriculars
 
+*Examples:*
 * Outstanding Computer Science Undergraduate Student Award 2022 - Seattle University
 * Graduate Representative & Member - Seattle University ACM (Computer Science Club) | September 2019 – Present
 * President's list & Dean’s list - Seattle University

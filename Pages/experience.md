@@ -4,6 +4,7 @@
 <table>
   <tr>
     <td>
+      <i>Example:</i><br />
       <b>Tutor, TA, Grader - CSSE</b> | June 2021 - June 2022<br />
       Seattle University<br />
       <ul>

@@ -4,7 +4,8 @@
 <table>
   <tr>
     <td>
-      <b>Bachelor of Science in Computer Science</b> | June 2022<br />
+      <i>Example:</i><br />
+      <b>Bachelor of Science in Computer Science, Minor in Data Science</b> | June 2022<br />
       Seattle University - Seattle, WA<br />
       GPA: 3.9
     </td>

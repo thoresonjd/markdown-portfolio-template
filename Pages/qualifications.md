@@ -2,6 +2,8 @@
 
 # Skills & Qualifications
 
+*Examples:*
+
 ### Languages
 C++, C#, Python, TypeScript, JavaScript, HTML/CSS, Java, SQL, F#
 
