@@ -6,7 +6,9 @@ Below resides the template for the README file, which acts as the main page of y
 
 Everyone is encouraged to fork, copy, or reference this repository and customize it to their own liking. You need not adhere to everything provided in this template, as the contents presented in this template are merely creative suggestions. You may add, modify, or remove anything as you see fit. Your portfolio is yours to own and customize. Get creative and share your portfolio with the world! 
 
-If you are interested in seeing what a Markdown portfolio may look like, here's a reference to my portfolio: https://github.com/thoresonjd/markdown-portfolio
+If you are interested in seeing what a Markdown portfolio may look like, you are welcome to reference [my portfolio](https://github.com/thoresonjd/markdown-portfolio).
+
+If you need help with Markdown, reference the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
 
 ---
 ---
