@@ -17,25 +17,25 @@
   </tr>
   <tr>
     <td>
-      <b>Position Held</b> | Start Date - End Date<br />
+      <b>Position</b> | Start Date - End Date<br />
       Employer<br />
       <ul>
-        <li>High-level overview</li>
-        <li>Detailed role</li>
-        <li>Achievements and accomplishments</li>
-        <li>Tools and technologies used</li>
+        <li>High-level overview of project or unit of work</li>
+        <li>Description of role and team</li>
+        <li>Achievements, accomplishments, and/or impacts using metrics</li>
+        <li>Tools, technologies, and soft skills used</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <b>Position Held</b> | Start Date - End Date<br />
+      <b>Position</b> | Start Date - End Date<br />
       Employer<br />
       <ul>
-        <li>High-level overview</li>
-        <li>Detailed role</li>
-        <li>Achievements and accomplishments</li>
-        <li>Tools and technologies used</li>
+        <li>High-level overview of project or unit of work</li>
+        <li>Description of role and team</li>
+        <li>Achievements, accomplishments, and/or impacts using metrics</li>
+        <li>Tools, technologies, and soft skills used</li>
       </ul>
     </td>
   </tr>
